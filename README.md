@@ -1,7 +1,7 @@
 # Android.Http.Asyncronous
 This class is used to connect asynchronously to http server with callbacks implementation
 
-#### How to
+#### How to:
 
    ```java
      public void connect() {
@@ -9,7 +9,9 @@ This class is used to connect asynchronously to http server with callbacks imple
         http.execute("http://192.168.1.1/get.json", null, null);
         http.setHttpListener(new Http.HttpListener() {
             @Override
-            public void onResponseOk(JSONObject result) { }
+            public void onResponseOk(JSONObject result) { 
+            	/* process your result jsonObject here */
+            }
 
             @Override
             public void onResponseNull() { }
