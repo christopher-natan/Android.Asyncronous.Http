@@ -15,7 +15,7 @@ import java.net.URLEncoder;
 import javax.net.ssl.HttpsURLConnection;
 
 /**
- * Asynchronous http
+ * Asynchronous Http
  * This class is used to connect asynchronously to http server with callbacks implementation and returns JSON object
  *
  * @author Christopher M. Natan
