@@ -1,4 +1,4 @@
-# Android.Http.Asyncronous
+# Asyncronous Http
 This class is used to connect asynchronously to http server with callbacks implementation and returns JSON object
 
 #### How to:
