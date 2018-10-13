@@ -86,6 +86,7 @@ public class Http extends AsyncTask<String, Void, String> {
      * Open a new HttpURLConnection and casting the result to this.mURLConnection.
      *
      * @param arg0 contains http url string
+     */
     private void setURLConnection(String... arg0) {
         String httpUrl = arg0[0].trim();
 
