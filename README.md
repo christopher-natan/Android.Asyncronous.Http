@@ -7,10 +7,10 @@ This is my latest project of year 2018.
 A machine that sends prepaid Top-up to any prepaid(Globe, Smart, Sun) mobile phone. And also serve  as Piso Wifi hotspot.
 
 #### Programming Languages:
-Android Java, CakePHP, MySQL, nGinx, Python3, NodeJs
+Android Java, CakePHP, PHP, MySQL, nGinx, Python3, NodeJs, Shell script
 
 #### Hardware Components are: 
-Raspberry Pi 3,  Coin Acceptor, APEX 7000 Bill Acceptor, Channel Relay, OptoCoupler,  Android Tablet 10' Android version 5.1
+Raspberry Pi 3,  Coin Acceptor, APEX 7000 Bill Acceptor, Channel Relay, OptoCoupler,  Android, Router that supports OpenWRT firmware and Android Tablet 10 inch
 
 #### Kiosk Mode:
 The Android should be rooted which I made it and customized most of the settings to make it as Kiosk Mode 
@@ -19,7 +19,7 @@ which displaying full screen with the EasyLoad app
 #### Demo:
 Youtube: https://www.youtube.com/watch?v=MmLp7KN3-MI
 
-[![EasyLoad Machine](https://goo.gl/hnvpDJ)](http://www.youtube.com/watch?v=MmLp7KN3-MI)
+[![EasyLoad Machine](https://bit.ly/2RAzZ9z)](http://www.youtube.com/watch?v=MmLp7KN3-MI)
 
 
 #### How to:
