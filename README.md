@@ -1,5 +1,5 @@
 # Asyncronous Http
-Java class to asynchronously connect to an HTTP server. Dependency class in my vending machine project
+Java class to asynchronously connect to an HTTP server. Dependency class of my vending machine project
 
 #### Connected Project:
 http://www.cmnworks.com/vending-machine.html
